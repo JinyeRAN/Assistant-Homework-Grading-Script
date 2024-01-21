@@ -6,6 +6,6 @@ How to use
 ```
 mkdir new folder in RAW
 copy word files to new folder
-modify column names in SystemStudentName.xlxs
+modify column names in SystemStudentName.xlsx
 run AssistanceTool.py
 ```
